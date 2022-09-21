@@ -1,5 +1,5 @@
 package comp1000_pa1;
-
+import.java.util.Scanner;
 public class PA1a {
 public static void main(String[] args) {
 Scanner x = new Scanner (System.in);
